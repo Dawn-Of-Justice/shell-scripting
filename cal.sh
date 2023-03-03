@@ -1,4 +1,4 @@
-#Calculator using if - By Salo
+#Simple Calculator with addition, Subtraction, Multiplication, Division using if else ladder
 echo Simple Calculator
 read -p 'Number1:' n1
 read -p 'Number2:' n2

@@ -1,4 +1,4 @@
-#Calculator using switch - By Salo
+#Simple Calculator with addition, Subtraction, Multiplication, Division using switch case
 echo Simple Calculator
 loop=1
 while [ $loop -eq 1 ]

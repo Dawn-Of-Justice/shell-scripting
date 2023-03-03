@@ -1,4 +1,4 @@
-#Fibonacci sequence- By Salo
+#Fibonacci sequence generator
 echo Fibonacci Checker
 read -p 'How many terms would you like to print:' n
 a=0

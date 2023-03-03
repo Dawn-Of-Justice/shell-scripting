@@ -1,4 +1,4 @@
-#Pattern generator - By Salo
+# '*' Pattern generator 
 echo Inverted Pattern Genarator
 read -p 'Enter the floor number:' n
 floor=$n

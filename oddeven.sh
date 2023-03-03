@@ -1,4 +1,4 @@
-#Odd or Even - By Salo
+#Odd or Even checker
 echo Odd or Even Checker
 echo -n Enter a number: 
 read num
